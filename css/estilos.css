@@ -44,7 +44,7 @@ body{
     transition: color 0.3s ease;
 }
 #sobre-mi{
-    background: url(../img/ImagenSobreMi.jpg) no-repeat fixed;
+    background: url(../Img/ImagenSobreMi.jpg) no-repeat fixed;
     background-size: cover;
 
 }
