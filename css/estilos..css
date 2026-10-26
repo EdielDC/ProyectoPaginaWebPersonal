@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap');
+
+header{
+    height: 100vh;
+    background-color: #965e5e;
+}
+#saludo{
+    font-family: 'Rammetto One';
+}
